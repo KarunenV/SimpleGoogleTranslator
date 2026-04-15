@@ -6,11 +6,36 @@ def translate_to_english(text: str) -> str:
 
 # Example usage
 texts = [
-    "Bonjour tout le monde",
-    "Hola, ¿cómo estás?",
-    "今日はいい天気ですね",
-    "Aanrijding Letsel"
-    "Bestelauto (BES)"
+    "Aanrijding Letsel",
+    "Vz Rijdt Achterop",
+    "Vz Tegemoetk Op Rijbaan Tp",
+    "Verzekerde Rijdt Achterop Tegenpartij",
+    "Vz Rijdt Tegen Opstal",
+    "Aanrijding Met Voertuig",
+    "Verz. Veranderde Van Rijstrook",
+    "Vz Rijdt Achterop",
+    "Verzekerde Verleent Geen Voorrang",
+    "Achteroprijden",
+    "Verzekerde Rijdt Achterop Tegenpartij",
+    "Auto Aanrijding Geen Voorrang",
+    "Onduidelijke/Geen Lezing",
+    "A.Geen Afst. Bewaard Op Rechte Weg",
+    "Vz Rijdt Achterop",
+    "Vz Verleent Geen Voorrang",
+    "Vz Verleent Geen Voorrang",
+    "Vz Verandert Van Richting",
+    "Verz Verliet Uitrit",
+    "Letselschade",
+    "Aanrijding Met Voertuig",
+    "Letselschade",
+    "Tp Op Vz Na Vz Op Voorganger",
+    "Vz Verleent Geen Voorrang",
+    "Vz Verleent Geen Voorrang",
+    "Geen Voorrang Verleend",
+    "Links/Rechts Afslaan",
+    "Tgp. Stond Stil",
+    "Aanrijding Met Voertuig",
+    "Vz Rijdt Achterop"
 ]
 
 for t in texts:
