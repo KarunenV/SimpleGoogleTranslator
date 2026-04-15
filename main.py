@@ -8,7 +8,9 @@ def translate_to_english(text: str) -> str:
 texts = [
     "Bonjour tout le monde",
     "Hola, ¿cómo estás?",
-    "今日はいい天気ですね"
+    "今日はいい天気ですね",
+    "Aanrijding Letsel"
+    "Bestelauto (BES)"
 ]
 
 for t in texts:
